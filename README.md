@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ayman</h1>
 <h3 align="center">Flutter/Node.js Developer</h3>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-ayman-96b37b2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ayman-96b37b2ba" height="30" width="40" /></a>
@@ -8,6 +9,8 @@
 <a href="https://codeforces.com/profile/abdulluhayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdulluhayman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdulluhayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulluhayman" height="30" width="40" /></a>
 </p>
+
+![Your GIF](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
