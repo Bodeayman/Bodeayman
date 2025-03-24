@@ -21,7 +21,7 @@
 <!-- About Me Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  I'm a passionate developer with expertise in <b>Flutter</b> and <b>Node.js</b>, focused on creating scalable, cross-platform applications. I enjoy solving problems on competitive programming platforms and contributing to open-source projects. Currently exploring <b>microservices</b> and <b>cloud-native development</b>.
+  I'm a passionate developer with expertise in <b>Flutter</b> and <b>Node.js</b>, focused on creating scalable, cross-platform applications. I enjoy solving problems on competitive programming platforms. Currently exploring <b>microservices</b>. and Looking forward to contribute in <b>open source projects</b>.
 </p>
 
 <!-- Connect with Me Section -->
