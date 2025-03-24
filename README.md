@@ -31,7 +31,7 @@
   <a href="https://www.leetcode.com/abdulluhayman" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:abdulluhayman@gmail.com" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/216656372-0b0e9d3a-cb30-47a5-b0e2-4e4dbfc5e7d2.png" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -105,8 +105,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodeayman&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- Commits Snake (Contribution Graph) -->
+<h3 align="left">Commits Snake</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodeayman&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodeayman&theme=dracula&hide_border=true&area=true" alt="Commits Snake" />
 </p>
 
 <!-- Currently Working On -->
@@ -117,6 +120,7 @@
   💻 Contributing to open-source projects in the Flutter community.
 </p>
 
+<!-- Fun Fact -->
 
 
 <!-- Footer -->
