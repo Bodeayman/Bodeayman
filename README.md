@@ -112,8 +112,8 @@
 <!-- Currently Working On -->
 <h3 align="left">Currently Working On</h3>
 <p align="left">
-  🔭 Building a <b>Flutter-based e-commerce app</b> with Node.js backend and MongoDB.<br>
-  🌱 Learning <b>microservices architecture</b> with Docker and Kubernetes.<br>
+  🔭 Building a <b>Flutter-based e-commerce app</b> with Node.js backend and PostgreSQL.<br>
+  🌱 Learning <b>microservices architecture</b> with Docker.<br>
   💻 Contributing to open-source projects in the Flutter community.
 </p>
 
