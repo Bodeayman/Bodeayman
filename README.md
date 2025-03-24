@@ -11,7 +11,8 @@
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/bodeayman?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
   <!-- Commits This Year -->
-  <img src="https://img.shields.io/github/commit-activity/y/bodeayman?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits This Year" />
+  <img src="https://img.shields.io/github/commit-activity/y/bodeayman/bodeayman?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits This Year" />
+
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Intro GIF" width="300"/>
@@ -114,7 +115,7 @@
 </p>
 
 <!-- Commits Snake (Contribution Graph) -->
-<h3 align="left">Commits Snake</h3>
+<h3 align="left">Commits Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodeayman&theme=dracula&hide_border=true&area=true" alt="Commits Snake" />
 </p>
