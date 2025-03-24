@@ -36,16 +36,6 @@
   </a>
 </p>
 
-<!-- Featured Projects Section -->
-<h3 align="left">Featured Projects</h3>
-<p align="left">
-  <a href="https://github.com/Bodeayman/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bodeayman&repo=your-project-1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Bodeayman/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bodeayman&repo=your-project-2&theme=radical" alt="Project 2" />
-  </a>
-</p>
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools</h3>
@@ -127,11 +117,7 @@
   💻 Contributing to open-source projects in the Flutter community.
 </p>
 
-<!-- Fun Fact -->
-<h3 align="left">Fun Fact</h3>
-<p align="left">
-  ⚡ I can solve a Rubik's Cube in under 2 minutes!
-</p>
+
 
 <!-- Footer -->
 <p align="center">
