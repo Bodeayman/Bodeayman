@@ -4,7 +4,14 @@
 
 <!-- Profile Views and Intro GIF -->
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=bodeayman&label=Profile%20Views&color=0e75b6&style=flat" alt="bodeayman" />
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/bodeayman?label=Followers&style=flat&color=green" alt="GitHub Followers" />
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/bodeayman?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  <!-- Commits This Year -->
+  <img src="https://img.shields.io/github/commit-activity/y/bodeayman?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits This Year" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Intro GIF" width="300"/>
