@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Abdullah Ayman</h1>
-<h3 align="center">Flutter & Node.js Developer | Building Scalable & Cross-Platform Solutions</h3>
+<h3 align="center">Mobile Developer | Building Scalable & Cross-Platform Solutions</h3>
 
 <!-- Profile Views and Intro GIF -->
 <p align="center">
