@@ -91,6 +91,10 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</a>
+
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   </a>
@@ -106,20 +110,22 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
+<a href="https://docs.flutter.dev/data-and-backend/state-mgmt/hive" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/hivedb/hive/master/docs/images/logo.png" alt="Hive" width="40" height="40"/>
+</a>
 
-  <!-- Newly Added Tools -->
+<a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logo.png" alt="Bloc/Cubit" width="40" height="40"/>
+</a>
+
+
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
   </a>
-  <a href="https://docs.flutter.dev/data-and-backend/state-mgmt/hive" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hivedb/hive/master/docs/images/logo.png" alt="Hive" width="40" height="40"/>
-  </a>
-  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logo.png" alt="Bloc/Cubit" width="40" height="40"/>
-  </a>
+
 </p>
 
 <!-- GitHub Stats and Activity -->
