@@ -110,15 +110,6 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
-<a href="https://docs.flutter.dev/data-and-backend/state-mgmt/hive" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/hivedb/hive/master/docs/images/logo.png" alt="Hive" width="40" height="40"/>
-</a>
-
-<a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logo.png" alt="Bloc/Cubit" width="40" height="40"/>
-</a>
-
-
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
