@@ -1,121 +1,105 @@
-<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Abdullah Ayman</h1>
-<h3 align="center">Mobile Developer | Building Scalable & Cross-Platform Solutions</h3>
+<h3 align="center">Software Engineer | Building Scalable & Cross-Platform Solutions</h3>
 
-<!-- Profile Stats -->
+<!-- Stats and Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bodeayman&label=Profile%20Views&color=0e75b6&style=flat" alt="bodeayman" />
+  <img src="https://komarev.com/ghpvc/?username=bodeayman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/bodeayman?label=Followers&style=flat&color=green" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/bodeayman?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/bodeayman/bodeayman?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits This Year" />
-</p>
-
-<!-- Intro GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Intro GIF" width="300"/>
+  <img src="https://img.shields.io/github/commit-activity/y/bodeayman/bodeayman?label=Commits%20This%20Year&style=flat&color=purple" alt="Commits" />
 </p>
 
 <!-- About Me -->
-<h3 align="center">About Me</h3>
+<h3 align="center">🚀 About Me</h3>
 <p align="center">
-  I'm a passionate developer with expertise in <b>Flutter</b> and <b>Node.js</b>, focused on creating scalable, cross-platform applications. I enjoy solving problems on competitive programming platforms. Currently exploring <b>microservices architecture</b> and contributing to <b>open source</b>.
+  I'm a Mobile & backend developer focused on building scalable and cross-platform apps. I love solving algorithmic problems and contributing to open-source. Currently learning microservices and DevOps tools like Docker.
 </p>
 
-<!-- Connect with Me -->
-<h3 align="left">Connect with Me</h3>
+<!-- Contact Me -->
+<h3 align="left">📬 Connect With Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-ayman-96b37b2ba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abdulluhayman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/abdulluhayman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abdulluhayman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="mailto:abdulluhayman@gmail.com" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/216656372-0b0e9d3a-cb30-47a5-b0e2-4e4dbfc5e7d2.png" alt="Email" height="30" width="40" />
-  </a>
+  <a href="mailto:abdulluhayman@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdullah-ayman-96b37b2ba"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/abdulluhayman"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/abdulluhayman"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/abdulluhayman"><img src="https://img.shields.io/badge/Codeforces-%23569ae2.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="left">🛠️ Languages and Tools</h3>
+<!-- Skills Section -->
+<h3 align="left">🛠️ Tech Stack</h3>
 
-#### 💻 Programming Languages
+<h4>💻 Programming Languages</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### 📱 Frontend & UI
+<h4>📱 Frontend / UI</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-#### 🖥️ Backend & Frameworks
+<h4>🖥️ Backend / Frameworks</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-#### 🗄️ Databases
+<h4>🗄️ Databases</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-#### ⚙️ DevOps & Tools
+<h4>⚙️ DevOps & Tools</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<!-- GitHub Stats and Activity -->
+<!-- GitHub Stats -->
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodeayman&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodeayman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bodeayman&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodeayman&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- Streak -->
-<h3 align="left">🔥 Contributions & Streak</h3>
+<h3 align="left">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodeayman&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodeayman&theme=radical&hide_border=true" />
 </p>
 
-<!-- Activity Graph -->
-<h3 align="left">📈 Contribution Graph</h3>
+<h3 align="left">📈 GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodeayman&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodeayman&theme=dracula&hide_border=true&area=true" />
 </p>
 
-<!-- Currently Working On -->
-<h3 align="left">🚀 Currently Working On</h3>
-<p align="left">
-  🔭 Building a <b>Flutter-based e-commerce app</b> with Node.js backend and PostgreSQL.<br>
-  🌱 Learning <b>microservices architecture</b> with Docker.<br>
-  💻 Contributing to open-source projects in the Flutter community.
-</p>
+<!-- Currently Learning / Working On -->
+<h3 align="left">🎯 Currently Working On</h3>
+<ul>
+  <li>🚀 Flutter app with photo upload, pagination, and Cubit state management</li>
+  <li>🔧 Node.js backend with PostgreSQL + Prisma ORM</li>
+  <li>📦 Learning Docker for backend containerization</li>
+</ul>
 
-<!-- Footer -->
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Thanks for visiting my profile! Feel free to connect 😊
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Thanks for visiting!
 </p>
