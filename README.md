@@ -89,7 +89,7 @@
 <!-- Currently Learning / Working On -->
 <h3 align="left">🎯 Currently Working On</h3>
 <ul>
-  <li>🚀 React app with photo upload, pagination, and Cubit state management</li>
+  <li>🚀 React with using MUI for components</li>
   <li>🔧 Node.js backend with PostgreSQL + Prisma ORM</li>
   <li>📦 Learning Docker for backend containerization</li>
 </ul>
