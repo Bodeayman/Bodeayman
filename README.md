@@ -12,7 +12,7 @@
 <!-- About Me -->
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  I'm a Full stack developer focused on building scalable and cross-platform apps. I love solving algorithmic problems and contributing to open-source. Currently learning microservices and DevOps tools like Docker.
+  I'm a Full stack developer focused on building scalable and cross-platform apps. I love solving algorithmic problems and contributing to open-source. Currently learning System design 
 </p>
 
 <!-- Contact Me -->
