@@ -1,6 +1,6 @@
 
 
-I'm **Abdullah Ayman**, 3rd year **CS** student at [**`ZC`**](https://zewailcity.edu.eg/), **Founding** Software Engineer, **ECPC'25** Finalist, **OSS** at **OSGeo** and a Full stack developer. I build scalable web apps, solve algorithmic problems, Interested in **System Design**, **Operating Systems**, **Databases**, **Problem Solving**, **AI Engineering** and Of course **Mathematics**.
+I'm **Abdullah Ayman**, 3rd year **CS** student at [**`ZC`**](https://zewailcity.edu.eg/), **Founding** Software Engineer, SWE Intern @ **Fawry**, **ECPC'25** Finalist, **OSS** at **OSGeo** and a Full stack developer. I build scalable web apps, solve algorithmic problems, Interested in **System Design**, **Operating Systems**, **Databases**, **Problem Solving**, **AI Engineering** and Of course **Mathematics**.
 
 **Reach me:** [Email](mailto:abdulluhayman@gmail.com) · [LinkedIn](https://linkedin.com/in/abdullah-ayman9)
 
